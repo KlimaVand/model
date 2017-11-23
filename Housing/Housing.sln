@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Housing", "Housing.csproj", "{9273E1C2-2435-4127-95D7-E5F676331297}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestHousing", "..\UnitTestHousing\UnitTestHousing.csproj", "{E7C2637D-0B2F-45B6-B0BD-A988923D57AA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntegrationTestHousing", "..\IntegrationTestHousing\IntegrationTestHousing.csproj", "{9A6C15F6-AE3A-4D16-97ED-E04A192295F1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9273E1C2-2435-4127-95D7-E5F676331297}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9273E1C2-2435-4127-95D7-E5F676331297}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9273E1C2-2435-4127-95D7-E5F676331297}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9273E1C2-2435-4127-95D7-E5F676331297}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E7C2637D-0B2F-45B6-B0BD-A988923D57AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7C2637D-0B2F-45B6-B0BD-A988923D57AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7C2637D-0B2F-45B6-B0BD-A988923D57AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7C2637D-0B2F-45B6-B0BD-A988923D57AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9A6C15F6-AE3A-4D16-97ED-E04A192295F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A6C15F6-AE3A-4D16-97ED-E04A192295F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A6C15F6-AE3A-4D16-97ED-E04A192295F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A6C15F6-AE3A-4D16-97ED-E04A192295F1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
